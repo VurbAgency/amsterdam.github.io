@@ -18,28 +18,7 @@ As our goal is to make as much of the code we develop as reusable as possible. W
 
 ## Basic project requirements
 
-Any of our Open Source projects should have all of the following:
-
-#### Using
-
-* A [good `README`](write-a-readme.md) with a good project description and a good user guide.
-* Complete user documentation.
-
-#### Developing
-
-* A readme with clear instructions on how to develop.
-* Complete inline documentation, tracked and with a high code coverage.
-* High automated test code coverage.
-* A section on the architecture or the background to the construction of the project.
-
-#### Contributing
-
-* A [`CONTRIBUTING`](../CONTRIBUTING.md) explaining how someone can contribute issues, code, documentation or tests to the project.
-* A clear governance so that contributors can understand what they can expect when they decide to contribute to the project, preferably in the `CONTRIBUTING` or in a `GOVERNANCE`.
-* Reply to incoming issues and Pull Requests [within 48 hours](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177).
-* Timely resolution to incoming issues.
-* Timely resolution to incoming pull requests.
-* A CI server to make contributing easier and safer.
+Any of our Open Source projects adhere to the [SCORE Principles for Quality Code](https://github.com/score-partners/quality-code) to guarantee a common ground for collaborating inside and outside of our organisation.
 
 ## Community Metrics
 
